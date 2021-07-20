@@ -1,0 +1,108 @@
+body{
+  color: #caf7e3;
+  margin:0;
+  text-align: center;
+}
+.toph1{
+  margin-top: 0;
+  color: #206a5d;
+  font-family: 'Akaya Kanadaka', cursive;
+  font-size: 40px;
+}
+h1{
+    color: #206a5d;
+}
+h3{
+  font-family: 'Dosis', sans-serif;
+  color: #1eae98;
+    font-size: 25px;
+}
+h2{
+  font-family: 'Bodoni Moda', serif;
+  color: #39a6a3;
+    font-size: 40px;
+}
+p{
+  color: #206a5d;
+  font-size: 20px;
+}
+.sr{
+  padding-top: 30px;
+}
+.top{
+  background-color:#e0ebe8;
+  position :relative;
+  padding-top: 100px;
+}
+.about{
+  width:50%;
+  margin: 20px auto 100px auto;
+}
+.skills{
+  margin-top: 100px ;
+  margin-bottom: 100px;
+}
+.skill-row{
+  color:#f3f0d7;
+  width:50%;
+  margin: 100px auto 200px auto;
+  justify-content: center;
+}
+.contactme{
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+.fcloud{
+  position:absolute;
+  right:300px;
+  top:50px;
+}
+.scloud{
+  position: absolute;
+  left:300px;
+  bottom:300px;
+}
+.img-about{
+  width: 200px;
+}
+.web-img{
+  width:200px;
+  float: left;
+  margin-right: 20px;
+}
+.pro-img{
+width:200px;
+float: right;
+margin-left: 20px;
+}
+.data-img{
+  width:300px;
+  float: left;
+  margin-right: 20px;
+}
+hr{
+  border-color: #8e9775;
+  border-style: dotted none none;
+  width:4%;
+  border-width: 5px;
+ height: 2px;
+
+}
+.btn{
+  background-color: #206a5d;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+}
+.bottom-container{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #e0ebe8;
+}
+a{
+  font-style:
+}
